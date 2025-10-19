@@ -19,4 +19,5 @@ A fun and interactive Simon Says Game built using *HTML, **CSS, and **JavaScript
 - Clean and responsive UI
 
 Live Demo  → https://prathamsrivastava01.github.io/Simon-says-game/
+
 Source Code → https://github.com/prathamsrivastava01/simon-says-game
